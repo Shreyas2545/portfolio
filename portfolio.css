@@ -1,0 +1,38 @@
+.nav-design{
+    border: 2px solid black;
+}
+.nav-design a{
+gap:20px;
+text-align: center;
+padding:3px;
+text-decoration: none;
+color: black;
+margin:5px;
+font-size:20px;
+}
+.nav-design span{
+    padding-right:80px;
+}
+body{
+    background-color: white;
+}
+#image-whatsapp{
+    padding-left:100px;  
+}
+#left{
+    padding-left: 75px;
+}
+.main{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin:0px;
+    padding: 10px;
+    padding-left: 30px;
+    font-size: 20px;
+}
+.imagehandling{
+    justify-content: right;
+    
+    padding-left: 1000px;
+}
